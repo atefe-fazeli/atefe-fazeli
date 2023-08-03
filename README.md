@@ -13,9 +13,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  geting expirences
-  
-- 🌱 I’m currently learning Redux
+- 🔭 I’m currently working as a freelancer.
   
 <!-- - 👯 I’m looking to collaborate on Proyectos -->
   
